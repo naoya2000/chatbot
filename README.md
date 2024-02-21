@@ -1,3 +1,14 @@
+# About the tool
+
+I envision creating a crisis mental health solution that enables the user to speak to a responder with assurance about privacy and security. As it currently stands, the tool hasn't yet been completely built, but I am working at it in phases.
+
+The pages/interfaces that the user will go through:
+1. scroller_welcome.html ( https://github.com/naoya2000/chatbot/blob/main/scroller_welcome.html )
+2. index.html ( https://github.com/naoya2000/chatbot/blob/main/main/server/index.html )
+3. feedback screen (not developed at the time of writing)
+
+I look forward to seeing how this will progress.
+
 See https://www.freecodecamp.org/news/how-to-build-a-chatbot-with-react/
 
 # Getting Started with Create React App
