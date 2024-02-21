@@ -5,8 +5,8 @@ I envision creating a crisis mental health solution that enables the user to spe
 The (tentative) final product will be a real-time chat app that people experiencing mental health crises can use to speak to a responder. What I see as the distinguishing factor from current solutions is our approach to user safety, confidentiality and information security. Many existing solutions have a policy of reporting to law enforcement agencies or medical institutions in the case where the responder believes that there is a concern with the caller. In addition, I know of no solution that incorporates end-to-end encryption. We aim to create a solution where user information is totally confidential, unless the user explicitly agrees to the sharing of their information with external parties. We also plan to implement end-to-end encryption so that the only people who can see the conversation are the user and the responder.
 
 The pages/interfaces that the user will go through:
-1. scroller_welcome.html ( https://github.com/naoya2000/chatbot/blob/main/scroller_welcome.html )
-2. index.html ( https://github.com/naoya2000/chatbot/blob/main/main/server/index.html )
+1. welcome screen - scroller_welcome.html ( https://github.com/naoya2000/chatbot/blob/main/scroller_welcome.html )
+2. chat screen - index.html ( https://github.com/naoya2000/chatbot/blob/main/main/server/index.html )
 3. feedback screen (not developed at the time of writing)
 
 I look forward to seeing how this will progress.
